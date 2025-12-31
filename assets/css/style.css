@@ -310,7 +310,7 @@ h6 {
 */
 .mobile-nav-toggle {
   color: #222222;
-  font-size: 28px;
+  font-size: 55px;
   cursor: pointer;
   display: none;
   line-height: 0;
@@ -334,7 +334,7 @@ h6 {
 .navbar-mobile {
   position: fixed;
   overflow: hidden;
-  top: 50;
+  top: 0;
   right: 0;
   left: 0;
   bottom: 0;
@@ -345,14 +345,14 @@ h6 {
 
 .navbar-mobile .mobile-nav-toggle {
   position: absolute;
-  top: 15px;
-  right: 15px;
+  top: 25px;
+  right: 25px;
 }
 
 .navbar-mobile ul {
   display: block;
   position: absolute;
-  top: 100px;
+  top: 25px;
   right: 15px;
   bottom: 15px;
   left: 15px;
@@ -365,7 +365,7 @@ h6 {
 
 .navbar-mobile a,
 .navbar-mobile a:focus {
-  font-size: 15px;
+  font-size: 55px;
   padding-right: 15px;
   color: #222222;
 }
@@ -421,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("assets/img/White and Blue Modern New Arrival Billboard (Landscpae) (1).png") top right;
+  background: url("https://drive.google.com/file/d/1LScw5gQrtXBtT0gSpWpCnAhdKq3AZF1n/view?usp=sharing") top right;
   background-size: cover;
 }
 
