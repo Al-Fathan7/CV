@@ -334,7 +334,7 @@ h6 {
 .navbar-mobile {
   position: fixed;
   overflow: hidden;
-  top: 0;
+  top: 50;
   right: 0;
   left: 0;
   bottom: 0;
@@ -352,7 +352,7 @@ h6 {
 .navbar-mobile ul {
   display: block;
   position: absolute;
-  top: 55px;
+  top: 100px;
   right: 15px;
   bottom: 15px;
   left: 15px;
